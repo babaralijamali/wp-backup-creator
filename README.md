@@ -1,4 +1,4 @@
-# wp-backup-creator
+# WordPress Backup Creator
 A simple and fastest WordPress plugin to create backups of your site.
 
 === WP Backup Creator ===
